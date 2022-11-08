@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maywye, or Marine
 - 👀 I’m interested in Front-End Development and Web design
-- 🌱 I’m currently learning some frameworks (React, Vuejs, Angular) and how to use indesign / photoshop & ullistrator
+- 🌱 I’m currently learning some frameworks (React, Vuejs, Angular)
 - 💞️ I’m looking to collaborate on Vue js or React project
 - 📫 How to reach me marine.jacobs@live.com 
 
